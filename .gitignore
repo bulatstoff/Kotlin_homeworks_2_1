@@ -1,6 +1,6 @@
 .gradle
 build/
-.idea
+/.idea
 
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -17,6 +17,7 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/.idea
 
 
 ### Eclipse ###
@@ -43,3 +44,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/.idea
